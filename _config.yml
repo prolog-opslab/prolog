@@ -1,0 +1,12 @@
+# Site settings
+title: Prolog
+email: info@opslab.space
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: opslab1990
+github_username: +959795502587, +959425016488
+
+# Build settings
+markdown: kramdown
